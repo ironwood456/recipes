@@ -2,7 +2,8 @@
 - avacado
 - lime
 - salt
+- oil
 # Instructions
-- TBC
-
-
+1. put it all in a blender
+2. turn blender on
+3. enjoy 
